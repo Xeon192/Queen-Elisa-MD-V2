@@ -1,0 +1,64 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "INgLkk06LFSYgCwRA1NyazyXhn1FO7x3PrnZQ5tae2E="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "jSen/W3q9EhVKG6slCJKLs7TAyoUYLwsTpDTRtTC1Ws="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "IJ9o2LLSlqc1SrDxlxGwWYBYd7QzqSjbGE6pI6iyK08="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "UgRFqKQvFEoqGOZYTtmKDz1Q7wCrhIBVxVGgKPSLbS0="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "MDB7Mz/oU15cCyBzcAqQ7M7J1pZOH6n+DQfOGoqEdno="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "xJAt2riHV/DNjYKrZ2rWjRPzCadjjJ7VYgRF7QH+PEY="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "KOqlZ3jQ5XdWRXRA6CS2J5Zc2wh5WYDLdt9N/oTQ+AaaXXQWFeDDDH69MA8MLHJPIM4EpnAqJ6NNinJ2Qb0TAw=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 82,
+    "advSecretKey": "CSRQYmIEiTa2UqZDg+TEICmlV+umlfoLOigfskcJ57I=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "94772076642@s.whatsapp.net",
+          "fromMe": true,
+          "id": "A3F420585038D7BD6DFB9F42318635D1"
+        },
+        "timestamp": 1660954664
+      },
+      {
+        "key": {
+          "remoteJid": "94772076642@s.whatsapp.net",
+          "fromMe": true,
+          "id": "AB8BAB70265AAA2ECC205623AA2F95EC"
+        },
+        "timestamp": 1660954664
+      },
+      {
+        "key": {
+          "remoteJid": "94772076642@s.whatsapp.net",
+          "fromMe": true,
+          "id": "968DF58DF0DA94AC8CC6B0AE61456FAA"
+        },
